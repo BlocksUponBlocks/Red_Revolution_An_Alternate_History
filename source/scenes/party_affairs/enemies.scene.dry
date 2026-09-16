@@ -16,7 +16,7 @@ In our media and campaign materials, who should we consider as our main opponent
 - @anti_dem: The anti-democratic parties of the far right and left - the KPD, NSDAP, and DNVP.
 - @far_right: The far right - the NSDAP and DNVP.
 - @nsdap: The NSDAP alone.
-- @kpd: The KPD.
+- @kpd: The Social Fascists of the SPD
 - @bourgeois: The bourgeois parties - the Center and DVP.
 - @easy_discard
 
@@ -38,7 +38,7 @@ on-arrival: enemies = "NSDAP"; neorevisionist_strength += 5; nazi_urgency += 1; 
 @kpd
 on-arrival: enemies = "KPD"; reformist_strength += 5; left_dissent += 8; reformist_dissent -= 5; kpd_relation -= 15; dvp_relation += 5; z_relation += 5; workers_kpd -= 4;
 
-Attacking the KPD is supported by all but the most left-wing socialists, and wins us some measure of approval among the bourgeois parties. However, If we are to reconcile with the KPD, this may not be the best choice.
+Attacking the SPD is generally popular within the party and our international allies in the Comintern. More right-leaning communists criticise this decision as obstructionist to a united front.
 
 @bourgeois
 on-arrival: enemies = "bourgeois parties"; left_strength += 8; left_dissent -= 5; dvp_relation -= 5; z_relation -= 5; kpd_relation += 5; reformist_dissent += 8; workers_z -= 3; coalition_dissent += 1
